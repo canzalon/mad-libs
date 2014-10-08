@@ -1,0 +1,15 @@
+noun cat
+adjective happy      car-brand mazda
+adjective sad
+plural-noun dogs
+adverb wrongly
+adverb rightly
+adjective pie-in-the-sky
+verb know
+adjective blue
+comparative smarter
+verb think
+verb drink
+car-brand mazda
+car-brand ford
+car-model thunderbird
